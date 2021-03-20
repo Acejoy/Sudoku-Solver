@@ -14,4 +14,17 @@ The approach is as follows:
 
 ## Images
 
-![Original Image]('Img/original image.jpg')
+Original Image
+![Original Image](Img/original%20image.jpg)
+
+Finding the puzzle area in the image
+![Contoured Image](Img/contoured%20image.jpg)
+
+Extarcting the Puzzle Area
+![Cropped Image](Img/cropped%20image.jpg)
+
+Inverse Image of Puzzle Area
+![Inverted Image](Img/inverted.jpg)
+
+Extracted Digits
+![Extracted Digits](Img/Figure_1.png)
