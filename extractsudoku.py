@@ -16,6 +16,7 @@ def displayImage(dictImages):
     
     for mes, im in dictImages.items():
         cv2.imshow(mes, im)
+        # cv2.imwrite('./Img/'+mes+'.jpg', im)
     
     cv2.waitKey(0)
     cv2.destroyAllWindows()
