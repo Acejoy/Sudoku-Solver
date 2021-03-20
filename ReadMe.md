@@ -14,4 +14,4 @@ The approach is as follows:
 
 ## Images
 
-![Original Image]('Img/original%20image.jpg')
+![Original Image]('Img/original image.jpg')
